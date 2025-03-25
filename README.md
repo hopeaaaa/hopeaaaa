@@ -1,6 +1,5 @@
 <h1 align="left">Hello 
  </h1>
-<h3 align="left">A passionate interaction designer</h3>
 <p align="left">My name is Hope and I am an interaction designer based in Vancouver. I am an experienced developer skilled in Full Stack Development, MERN, Javascript and its frameworks. ⚡ </p>
 
 <h3 align="left">Languages and Tools:</h3>
