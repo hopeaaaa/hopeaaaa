@@ -1,4 +1,6 @@
-<h1 align="left">Hello  ![512](https://github.com/user-attachments/assets/c33cb8d4-8c5e-4f9c-98a7-19e6346d154f.gif) </h1>
+<h1 align="left">Hello  ![wave](https://github.com/user-attachments/assets/b2e8068a-5b6d-40d6-bcf4-1fe2985b9edc)
+
+  </h1>
 
 <p align="left">My name is Hope and I am an interaction designer based in Vancouver. I am an experienced designer-developer skilled in Full Stack Development, MERN, Javascript and its frameworks. ⚡ </p>
 
