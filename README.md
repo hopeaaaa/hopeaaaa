@@ -1,4 +1,4 @@
-<h1 align="left">Hello  ![wave](https://github.com/user-attachments/assets/b2e8068a-5b6d-40d6-bcf4-1fe2985b9edc)
+<h1 align="left">Hello!
 
   </h1>
 
