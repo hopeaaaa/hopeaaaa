@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm hope</h1>
+<h1 align="left">Hello ![image](https://github.com/user-attachments/assets/aba93e35-f840-4893-867c-398c6770fc86)
+ </h1>
 <h3 align="left">A passionate interaction designer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/hopeaaaa/](https://github.com/hopeaaaa/)
