@@ -1,7 +1,7 @@
-<h1 align="left">Hello!   </h1>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<h1 align="left">Hello!</h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-<p align="left">My name is Hope and I am an interaction designer based in Vancouver. I'm an experienced designer-developer skilled in Full Stack Development, MERN, Javascript and its frameworks. ⚡ </p>
+
+<p align="left">My name is Hope and I am an interaction designer based in Vancouver. </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
