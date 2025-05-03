@@ -1,7 +1,5 @@
 <h1 align="left">Hello!   </h1>
-![Hi](https://github.com/user-attachments/assets/b4fda8c7-4cb2-4fb7-ab9b-93faee198e58)
-![Hi](https://github.com/user-attachments/assets/f07840a4-200f-48dc-b016-1421729d0ba4)
-![Hi (1)](https://github.com/user-attachments/assets/9bba1b83-8fa5-4a8f-aaa5-2f05322b27b6)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="left">My name is Hope and I am an interaction designer based in Vancouver. I'm an experienced designer-developer skilled in Full Stack Development, MERN, Javascript and its frameworks. ⚡ </p>
 
