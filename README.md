@@ -1,4 +1,4 @@
-<h1 align="left">Hello!</h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<h1 align="left">Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> </h1>
 
 
 <p align="left">My name is Hope and I am an interaction designer based in Vancouver. </p>
