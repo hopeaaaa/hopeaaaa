@@ -1,4 +1,5 @@
-<h1 align="left">Hello! Assets/Hi.gif
+<h1 align="left">Hello! 
+![Hi](https://github.com/user-attachments/assets/e272b887-07d5-46d1-be90-3ca899db628e)
 
   </h1>
 
