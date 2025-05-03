@@ -1,7 +1,5 @@
-<h1 align="left">Hello! 
-![Hi](https://github.com/user-attachments/assets/e272b887-07d5-46d1-be90-3ca899db628e)
-
-  </h1>
+<h1 align="left">Hello!   </h1>
+![Hi](https://github.com/user-attachments/assets/b4fda8c7-4cb2-4fb7-ab9b-93faee198e58)
 
 <p align="left">My name is Hope and I am an interaction designer based in Vancouver. I'm an experienced designer-developer skilled in Full Stack Development, MERN, Javascript and its frameworks. ⚡ </p>
 
